@@ -1,0 +1,51 @@
+
+
+* body {
+    background-color: black;
+}
+
+/.center {
+    text-align: center;
+        color: rgb(124, 124, 129);
+        border-radius: 2rem, 2rem, 2rem, 2rem;
+        border-color: aliceblue;
+      }
+
+p {
+  color: rgb(124, 124, 129);
+  text-align: center;
+} 
+h1 {
+  color: aqua;
+    text-align: center;
+  
+}
+h2 {
+  color: aqua;
+  margin-bottom: auto;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ul {
+  color: azure;
+  text-align: center;
+  font-size: large;
+}
+div {
+    text-align: center;
+    margin-right: auto;
+    } 
+input {
+  margin-block-end: 0%;
+  background-color: rgb(25, 29, 31);
+  color: black;
+  font-size: large;
+}
+footer {
+  color: aqua;
+}
